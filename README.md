@@ -1,5 +1,6 @@
 # gaelic-legends
-Poem By John Campbell
+
+    
     Oft the savage Tale in telling
     Less of Love than Wrath and Hate,
     Hath within its fierceness dwelling
